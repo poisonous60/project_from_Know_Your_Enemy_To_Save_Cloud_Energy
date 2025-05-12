@@ -1,4 +1,5 @@
 # project_from_Know_Your_Enemy_To_Save_Cloud_Energy
+https://github.com/EMDC-OS/power-aware-triton
 2025 1학기 자료구조개론 강의 프로젝트 과제
 ```python
 ﻿typedef struct GPUProfile {  
